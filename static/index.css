@@ -1,0 +1,19 @@
+body {
+    /* Set background image */
+    background-image: url('.\o;pUI.jpg');
+    /* Set background size and other properties */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    /* Set form container styles */
+    background-color: rgba(175, 219, 228, 0.945); /* Set background color with some opacity */
+    padding: 100px;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
